@@ -1,11 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Linh Le's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/linhlekhanh11/part3lab1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image]()
 
 ### Link - Selection Link - Relative Link
-Click here to view my [Github](https://github.com/linhlekhanh11) 
+
+[View my Github here](https://github.com/linhlekhanh11) 
 
 [Click here to view Theme](#Jekyll-Themes)
 
@@ -88,7 +87,7 @@ Gorcery
 Cute emoji :drooling_face:
 
 
-![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
