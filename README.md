@@ -1,6 +1,6 @@
 ## Welcome to Linh Le's GitHub Pages
 
-![Image]()
+![Image](photo.jpeg)
 
 ### Link - Selection Link - Relative Link
 
